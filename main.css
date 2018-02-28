@@ -1,0 +1,17 @@
+html{
+    margin:20px;
+    background-color: #ffcc99;
+    
+}
+body{
+    font-family: "HelveticaNeue-Light";
+    font-weight: 200;
+    color: #000000;
+}
+h1{
+    font-size: 50px;
+}
+
+p{
+    font-size: 20px;
+}
